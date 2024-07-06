@@ -12,7 +12,7 @@
 - Saves the cleaned data to a CSV file for further use.
 
 ## Requirements
-- Python 3.x
+- Python 3.7 or higher
 - pandas
 
 ## Installation

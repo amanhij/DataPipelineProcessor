@@ -19,6 +19,6 @@
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/DataPreprocessingUtility.git
+git clone https://github.com/amanhij/DataPreprocessingUtility.git
 cd DataPreprocessingUtility
 pip install -r requirements.txt
